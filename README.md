@@ -1,10 +1,24 @@
-# instagram_flutter
+# Flutter Instagram (clone)
 
-A new Flutter project.
+## Sign In & Sign Up Page
 
-## Getting Started
+<img src="screenshots/1.png" width="70%" height="70%"> 
 
-This project is a starting point for a Flutter application.
+## Home, Comment & Explore Page
+
+<img src="screenshots/2.png" width="70%" height="70%"> 
+
+## Search user Page
+
+<img src="screenshots/4.png" width="70%" height="70%"> 
+
+## Upload Image Page
+
+<img src="screenshots/3.png" width="70%" height="70%"> 
+
+## Profile Page
+
+<img src="screenshots/5.png" width="70%" height="70%"> 
 
 A few resources to get you started if this is your first Flutter project:
 
